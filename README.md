@@ -1,3 +1,4 @@
+- Warning !!! 
 - 👋 Hi, I’m Lê Hoàng Nguyên
 - 👀 I’m interested in all stuff in computer science from frontend to backend to working culture like agile,...
 - 🌱 I’m currently learning backend and frontend web development ( React of courses) and maybe mobile app after this and much more in the future
